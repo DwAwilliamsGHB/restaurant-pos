@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">restaurant-pos</string>
+    <string name="go_to_table_layout">Go to Table Layout</string>
+    <string name="go_to_order_entry">Go to Order Entry</string>
+    <string name="order_for_table">Order for %1$s</string>
+    <string name="order_item"> %1$s - $%2$.2f</string>
+    <string name="menu_item_price">%1$s - $%2$.2f</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="go_to_payment">Go to Payment</string>
+    <string name="payment">Payment</string>
+    <string name="pay_by_card">Pay by Card</string>
+    <string name="pay_by_cash">Pay by Cash</string>
+    <string name="print_receipt">Print Receipt</string>
+    <string name="table_1">Table 1</string>
+    <string name="table_2">Table 2</string>
+    <string name="item_name">Item Name</string>
+    <string name="price">Price</string>
+    <string name="proceed_to_payment">Proceed to Payment</string>
 </resources>
